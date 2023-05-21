@@ -55,5 +55,8 @@ There were around 1200 train images with ∼77% of data belonging to one class. 
 ## For more details refer to complete report:
 https://github.com/Anushkagarg05/DeepAUCMaximization/blob/main/Report.pdf
 
+## Saved models and evaluation notebooks:
+https://drive.google.com/file/d/16f8j8NTjo1vTPfcFCiq2j9J13b8SDMu9/view?usp=sharing
+
 ## Certificate
 https://drive.google.com/file/d/1haSqPPdEes5p_S0g7D-u0Mq-YiCEggwx/view?usp=share_link
